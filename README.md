@@ -18,3 +18,5 @@ Python exercises from my programming class.
 - **How Many Names?** – Asks how many names you have, collects each one and prints your full name.
 - **Average Test Score** – Averages three test scores the user enters.
 - **Counting 10 to 100 by Tens** – Prints 10, 20, 30… up to 100 using a loop.
+- **Divisibility** – Checks whether one number divides evenly into another, and keeps asking until the denominator isn't zero.
+- **2 Through 20** – Prints the even numbers from 2 to 20 using a while loop.
