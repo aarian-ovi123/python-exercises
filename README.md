@@ -15,3 +15,6 @@ Python exercises from my programming class.
 - **Rolling Dice** – Prints all 36 possible combinations of rolling two dice.
 - **Higher / Lower** – A guessing game that tells you if your guess is too high or too low until you find the magic number.
 - **Higher / Lower 2.0** – The same game with a decimal number, where your guess only has to be correct to 2 decimal places.
+- **How Many Names?** – Asks how many names you have, collects each one and prints your full name.
+- **Average Test Score** – Averages three test scores the user enters.
+- **Counting 10 to 100 by Tens** – Prints 10, 20, 30… up to 100 using a loop.
