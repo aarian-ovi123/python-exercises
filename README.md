@@ -20,3 +20,6 @@ Python exercises from my programming class.
 - **Counting 10 to 100 by Tens** – Prints 10, 20, 30… up to 100 using a loop.
 - **Divisibility** – Checks whether one number divides evenly into another, and keeps asking until the denominator isn't zero.
 - **2 Through 20** – Prints the even numbers from 2 to 20 using a while loop.
+- **Food Portions** – Splits food evenly among a group and checks the amount you took, comparing rounded decimals so tiny rounding errors don't break it.
+- **School Key** – Tells you whether you can have a school key based on your role, using the `or` operator.
+- **Reservation** – Checks whether your name matches the name on a restaurant reservation.
