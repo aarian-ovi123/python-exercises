@@ -32,3 +32,7 @@ Python exercises from my programming class.
 - **Rectangle, Part 3** – Lets the user type the length and width, then prints the area and perimeter.
 - **Introduction** – Practices string and integer variables by printing a short profile.
 - **Introduction, Part 2** – Prints a one-line greeting with a name and age stored in variables.
+- **Age** – Asks your age and tells you how many birthday candles you'll need.
+- **Hello, <name>** – Asks for your name and says hello.
+- **Vertical Name** – Prints a name vertically, one letter per line.
+- **Transaction** – Simulates a bank deposit or withdrawal from a $1000 balance, rejecting invalid amounts and overdrafts.
