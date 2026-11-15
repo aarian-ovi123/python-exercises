@@ -23,3 +23,7 @@ Python exercises from my programming class.
 - **Food Portions** – Splits food evenly among a group and checks the amount you took, comparing rounded decimals so tiny rounding errors don't break it.
 - **School Key** – Tells you whether you can have a school key based on your role, using the `or` operator.
 - **Reservation** – Checks whether your name matches the name on a restaurant reservation.
+- **Positive, Negative, or Zero?** – Tells you whether the number you enter is positive, negative or zero.
+- **Old Enough To Vote?** – Checks whether you're old enough to vote in the U.S. based on your age.
+- **Is It Raining?** – Uses a True/False variable to decide whether to dance in the rain or the sun.
+- **Plants** – Uses True/False variables to track whether a plant needs water or repotting.
