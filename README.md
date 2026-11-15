@@ -27,3 +27,8 @@ Python exercises from my programming class.
 - **Old Enough To Vote?** – Checks whether you're old enough to vote in the U.S. based on your age.
 - **Is It Raining?** – Uses a True/False variable to decide whether to dance in the rain or the sun.
 - **Plants** – Uses True/False variables to track whether a plant needs water or repotting.
+- **Rectangle** – Calculates a rectangle's area and perimeter, showing the formula for each.
+- **Rectangle, Part 2** – Prints the area and perimeter with labels, using string concatenation.
+- **Rectangle, Part 3** – Lets the user type the length and width, then prints the area and perimeter.
+- **Introduction** – Practices string and integer variables by printing a short profile.
+- **Introduction, Part 2** – Prints a one-line greeting with a name and age stored in variables.
