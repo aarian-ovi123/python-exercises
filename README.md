@@ -36,3 +36,7 @@ Python exercises from my programming class.
 - **Hello, <name>** – Asks for your name and says hello.
 - **Vertical Name** – Prints a name vertically, one letter per line.
 - **Transaction** – Simulates a bank deposit or withdrawal from a $1000 balance, rejecting invalid amounts and overdrafts.
+- **Presidential Eligibility** – Checks age, citizenship, birthplace and residency, then lists every reason someone isn't eligible to run for U.S. president.
+- **Recipe for Salad** – Scales three salad ingredients to any number of servings.
+- **Get Ready For School!** – Walks through a morning routine using functions, including default parameter values.
+- **Test Study Program** – Simulates studying for a test, repeating study cycles until no weak spots are left.
