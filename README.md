@@ -12,3 +12,6 @@ Python exercises from my programming class.
 - **Print Product** – A function that multiplies two numbers and prints the result.
 - **Weather** – Suggests footwear (sandals, galoshes or boots) based on the weather the user types.
 - **Category** – Collects three categories from the user, three items each, and prints each category with its items.
+- **Rolling Dice** – Prints all 36 possible combinations of rolling two dice.
+- **Higher / Lower** – A guessing game that tells you if your guess is too high or too low until you find the magic number.
+- **Higher / Lower 2.0** – The same game with a decimal number, where your guess only has to be correct to 2 decimal places.
